@@ -24,6 +24,10 @@ streamlit run app.py
 2. Create an app at share.streamlit.io pointing to `app.py`.
 3. In the app's **Settings → Secrets**, paste: `GROQ_API_KEY = "gsk_..."`
 
+## Tools: 
+
+Python, Streamlit, RAG, Groq API, PDF processing
+
 ## Project summary
 
 This project combines PDF retrieval with a language model to answer questions grounded in the provided documents. The README includes setup and run instructions, and explains how to configure the Groq API key for local use or deployment.
